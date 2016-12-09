@@ -1,5 +1,5 @@
 /**
- *
+ * Menu of options for store items.
  * @author Jason Heyer
  */
 package listPackage;
