@@ -1,5 +1,5 @@
 /**
- *
+ * Data Access Object for StoreItem.java
  * @author Jason Heyer
  */
 package listPackage;
